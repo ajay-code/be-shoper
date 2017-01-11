@@ -6,6 +6,5 @@ defined("DB_PASS")? null:define("DB_PASS","1234");
 defined("DB_NAME")? null:define("DB_NAME","ecommerce");
 
 
-
-// mysql://b1298e3317d339:061a091d@us-cdbr-iron-east-04.cleardb.net/heroku_a73db970876af53?reconnect=true
+// mysql://b90db1c726b8df:8b114903@us-cdbr-iron-east-04.cleardb.net/heroku_627773ec3fcaf1b?reconnect=true
 ?>
