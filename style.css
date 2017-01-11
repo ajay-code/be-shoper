@@ -1,0 +1,186 @@
+html, body {
+    height:100%;
+}
+.parent{
+	width:100%;
+	height:100%;
+	color:#000; 
+	position:absolute;
+	top:0px;
+	left:0px;
+	/*z-index:0;*/
+	overflow:visible;
+}
+.row{
+	width:100%;
+	position:relative;
+	clear:both;
+	color:#fff;
+	min-height:20px;
+	padding-bottom:20px;
+	text-transform:capitalize;	
+
+}	
+.bg{
+	background:#fff;
+	padding-bottom:6px;
+}
+.newbg{
+	background:#F8E1B4;
+}
+.padding{
+padding-bottom:2px;
+padding-top:2px;
+}
+.options{
+    width:70%;
+	position:relative;
+	background:#F98A5F;
+	color:#fff;
+	height:3%;
+	float:right;
+}
+.search{
+	width:50%;
+	height:5.5%;
+	display:inline-block;
+	padding:0% 0% 0% 18%;
+	top:10px;
+	position:relative;
+}
+.img{
+    width:7%;
+	height:5%;
+	display:inline-block;
+	padding:0% 24.8% 0% 0%;
+	top:10px;
+	position:relative;
+	float:right;
+}
+.pic{
+	width:100%;
+	height:100%;
+    background:#FDD191;
+	border: 2px solid #F98A5F;
+	border-radius: 6px;
+	box-shadow:2px 2px 2px #191919;
+}
+.pad{
+padding:8% 0% 0% 21%;
+}
+.input{
+	width:100%;
+	height:100%;
+	padding-left:2%;
+	border: 2px solid #F98A5F;
+	border-radius: 6px;
+	box-shadow:2px 2px 2px #191919;
+	font-size: 16px;
+	
+}
+.logo{
+	color:#2FA4E7;
+	width:25%;
+	height:10%;
+	display:inline-block;
+	position:relative;
+	top:10px;
+	background:#FDD191;
+}
+.cart{
+	background:#fff;
+	color:#2FA4E7;
+	width:20%;
+	height:10%;
+	float:right;
+	background:#FDD191;
+	top:10px;
+	position:relative;
+}
+.categories{
+	height:auto;
+	width:25%;
+	background:#fff;
+	display:inline-block;
+	vertical-align:top;
+}
+.cat-container{
+	display:none;
+	
+}
+/* Banner css starts here !!!*/
+.banner-container{
+	width:55%;
+	height:60%;
+	display:inline-block;
+}
+
+#slider_container{
+	height:100%;
+	width: 100%;
+	position:relative;
+	top:2%;
+	left:0%;
+	overflow:hidden;
+}
+#slider_container img{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:none;
+	
+}
+#1{
+	z-index:4;
+}
+#2{
+	z-index:3;
+}
+#3{
+	z-index:2;
+}
+#4{
+	z-index:1;
+}
+.c_heading{
+    width:100%;
+	position:relative;
+	clear:both;
+	background:#F98A5F;
+	color:#fff;
+	height:12%;	
+}
+.pics{
+	height:40%;
+}
+.footer{
+	height:20%;
+}
+.cats{
+	width: 90%;
+	height: 25px;
+	text-align: left;
+	padding-top: 10px;
+	font-size: 16px;
+	color: #000;
+	margin-top: 5px;
+	padding-left: 5%;
+	transition:all 0.25s ease-out 0s;
+	border-radius:6px;
+	background: #F98A5F;
+	box-shadow:2px 2px 2px #191919;
+	
+}
+.cats:hover{
+	width:70%;
+	padding-left:20%;
+	cursor:pointer;
+	margin: 5px auto 0px auto;
+	background:#FDD191;
+	color: #000;
+	box-shadow:2px 2px 2px #191919;
+}
+
+http://www.colorschemer.com/schemes/index.php

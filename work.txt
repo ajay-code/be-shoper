@@ -1,0 +1,7 @@
+checkout
+header
+payment
+front
+ajax/search
+class/products
+searchproducts

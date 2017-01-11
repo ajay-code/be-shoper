@@ -1,0 +1,9 @@
+<?php 
+	session_start();
+	unset($_SESSION['email']);
+	unset($_SESSION['token']);
+	unset($_SESSION['token_time']);
+	session_destroy();
+	header('location:login.php');
+	exit;	
+?>
