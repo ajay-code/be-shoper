@@ -1,5 +1,5 @@
 <?php
-	require_once('../includes/classes/Connection.php');
+	require_once('../includes/classes/connection.php');
 	$name= $_GET["name"];
 	if($name != ""){
 		$query="SELECT id,productname FROM  products WHERE productname LIKE '%$name%'";

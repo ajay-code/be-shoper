@@ -1,5 +1,5 @@
 <?php 
-	require_once('includes/classes/Connection.php');
+	require_once('includes/classes/connection.php');
 	require_once('includes/classes/login.php');
 	if(isset($_POST['submit'])){
 		$email = $_POST['useremail'];

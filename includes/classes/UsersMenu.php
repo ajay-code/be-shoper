@@ -1,5 +1,5 @@
 <?php 
-	require_once('Connection.php');
+	require_once('connection.php');
 	class UsersMenu{
 		public function insertUser($name,$Isactive){
 			$query ="INSERT INTO menu (MenuName,Isactive) VALUES ('{$name}',{$Isactive})";

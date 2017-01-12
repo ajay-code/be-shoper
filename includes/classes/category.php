@@ -1,5 +1,5 @@
-<?php 
-	require_once('Connection.php');
+<?php
+	require_once('connection.php');
 	class category{
 		public function insertCategory($categoryname,$Isactive){
 			$query ="INSERT INTO category (categoryname,Isactive) VALUES('{$categoryname}',{$Isactive})";
@@ -42,6 +42,6 @@
 			$connect->close_connection();
 			return $result;
 		}
-	
+
 }
  ?>
