@@ -4,7 +4,7 @@ html, body {
 .parent{
 	width:100%;
 	height:100%;
-	color:#000; 
+	color:#000;
 	position:absolute;
 	top:0px;
 	left:0px;
@@ -18,9 +18,9 @@ html, body {
 	color:#fff;
 	min-height:20px;
 	padding-bottom:20px;
-	text-transform:capitalize;	
+	text-transform:capitalize;
 
-}	
+}
 .bg{
 	background:#fff;
 	padding-bottom:6px;
@@ -76,7 +76,7 @@ padding:8% 0% 0% 21%;
 	border-radius: 6px;
 	box-shadow:2px 2px 2px #191919;
 	font-size: 16px;
-	
+
 }
 .logo{
 	color:#2FA4E7;
@@ -106,11 +106,11 @@ padding:8% 0% 0% 21%;
 }
 .cat-container{
 	display:none;
-	
+
 }
 /* Banner css starts here !!!*/
 .banner-container{
-	width:55%;
+	width:85%;
 	height:60%;
 	display:inline-block;
 }
@@ -130,7 +130,7 @@ padding:8% 0% 0% 21%;
 	top:0px;
 	left:0px;
 	display:none;
-	
+
 }
 #1{
 	z-index:4;
@@ -150,7 +150,7 @@ padding:8% 0% 0% 21%;
 	clear:both;
 	background:#F98A5F;
 	color:#fff;
-	height:12%;	
+	height:12%;
 }
 .pics{
 	height:40%;
@@ -171,7 +171,7 @@ padding:8% 0% 0% 21%;
 	border-radius:6px;
 	background: #F98A5F;
 	box-shadow:2px 2px 2px #191919;
-	
+
 }
 .cats:hover{
 	width:70%;

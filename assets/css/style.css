@@ -8,7 +8,7 @@ html, body {
 .parent{
 	width:100%;
 	height:100%;
-	color:#000; 
+	color:#000;
 	position:absolute;
 	top:0px;
 	left:0px;
@@ -22,9 +22,9 @@ html, body {
 	color:#fff;
 	min-height:20px;
 	padding-bottom:20px;
-	text-transform:capitalize;	
+	text-transform:capitalize;
 
-}	
+}
 .bg{
 	padding-bottom:2px;
 }
@@ -112,7 +112,7 @@ padding:5% 0% 0% 32%;
 	display:inline-block;
 	position:relative;
 	margin-top:1px;
-	
+
 }
 .logo_pic{
 	width:auto;
@@ -156,11 +156,11 @@ padding:5% 0% 0% 32%;
 }
 .cat-container{
 	display:none;
-	
+
 }
 /* Banner css starts here !!!*/
 .banner-container{
-	width:700px;
+	width:800px;
 	height:400px;
 	display:inline-block;
 }
@@ -180,7 +180,7 @@ padding:5% 0% 0% 32%;
 	top:0px;
 	left:0px;
 	display:none;
-	
+
 }
 #1{
 	z-index:4;
@@ -199,7 +199,7 @@ padding:5% 0% 0% 32%;
 	position:relative;
 	clear:both;
 	color:#fff;
-	height:5%;	
+	height:5%;
 	background:#DB3342;
 }
 .cats{
@@ -216,7 +216,7 @@ padding:5% 0% 0% 32%;
 	background: #DB3342;
 	box-shadow:2px 2px 2px #191919;
 	position:relative;
-	
+
 }
 .cats:hover{
 	width:70%;
@@ -275,7 +275,7 @@ padding:5% 0% 0% 32%;
 	font-family:tahoma;
 }
 #result option:hover{
-	cursor:pointer;		
+	cursor:pointer;
 	color:#DB3342;
 }
 #result{
@@ -341,7 +341,7 @@ z-index: 1;
 	border: 1px solid #DB3342;
 	padding-left:5%;
 	outline:none;
-	
+
 }
 .sign_btn{
 	width:20%;
@@ -353,7 +353,7 @@ z-index: 1;
 	margin-left:20%;
 	text-wrap:word-wrap;
 	color:#fff;
-    
+
 }
 .sign_btn:hover{
 	background:#414343;
@@ -366,8 +366,8 @@ z-index: 1;
     width:100%;
 	height:15%;
 	padding-top:5%;
-	
-}	
+
+}
 .sign_head{
 	background:#DB3342;
 }
@@ -539,7 +539,7 @@ a:hover {
 	color:#fff;
 	background:#fff;
 	display:inline-block;
-    
+
 }
 .pics{
 	height:250px;
@@ -648,8 +648,8 @@ padding-top:10px;
 	box-shadow:0px 0px 1px #000;
 	border-top-right-radius:5px;
 	border-top-left-radius:5px;
-	
-}	
+
+}
 .cart_heading{
 	width:510px;
 	height:55px;
@@ -662,7 +662,7 @@ padding-top:10px;
 	width:40px;
 	height:40px;
 	float:right;
-	
+
 }
 .pic_cart{
 	width:40px;
@@ -749,9 +749,9 @@ padding-top:10px;
 .save:hover{
 	color:#000;
 	cursor:pointer;
-	text-decoration:underline; 
+	text-decoration:underline;
 	transition:all 0.25s ease-out 0s;
-	
+
 }
 .cart_btn{
 	width:49%;
@@ -816,7 +816,7 @@ padding-top:10px;
 	height:30px;
 	width:100%;
 	margin-top:2%;
-	
+
 }
 .subcategories:hover >.out_container{
 	width:15%;
@@ -860,7 +860,7 @@ float: left;
 .float{
 	float:right;
 	margin-right:5%;
-	
+
 }
 .order_btn{
 	width:50%;

@@ -8,7 +8,7 @@
 				<img src="assets/img/4.jpg" id="4"/>
 			</div>
 		</div>
-		<div class="sads_container">
+		<!--div class="sads_container">
 			<div class="sads">
 				<img src="assets/img/banner1.png" height="105" width="230"/>
 			</div>
@@ -20,7 +20,7 @@
 				<img src="assets/img/banner3.png" height="105" width="230"/>
 			</div>
 
-		</div>
+		</div-->
 	</div>
 	<div class="row space">
 	<div class="c_heading">Latest Collection
