@@ -1,4 +1,4 @@
-<?php require_once('../includes/classes/products.php');
+<?php require_once('../includes/classes/Products.php');
 		$output="";
 if(isset($_SESSION['ct_cart'])){
 		foreach($_SESSION['ct_cart'] as $item){

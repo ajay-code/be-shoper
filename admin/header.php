@@ -66,7 +66,7 @@
 		</div></a>
 		<a href="user_personal.php">	<div class="box1"><div class="text1">user personal</div>
 		</div></a>
-	<a href="products.php">		<div class="box1"><div class="text1">products</div>
+	<a href="Products.php">		<div class="box1"><div class="text1">products</div>
 		</div></a>
 	<a href="orders.php">		<div class="box1"><div class="text1">Orders</div>
 		</div>	</a>

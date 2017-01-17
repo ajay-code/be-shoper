@@ -1,4 +1,4 @@
-<?php require_once('../includes/classes/products.php');
+<?php require_once('../includes/classes/Products.php');
 		$output="";
 		$id = $_POST['id'];
 		$qty = $_POST['qty'];

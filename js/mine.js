@@ -202,7 +202,7 @@ function fetchPages(id,wc,active){
 // For fetching all Products
 function fetchProducts(id,wc,active){
 	wc = wc || 'nothing';
-	$.post("../ajaxfiles/products.php",{wc:wc,active:active},function(data){
+	$.post("../ajaxfiles/Products.php",{wc:wc,active:active},function(data){
 		$("#"+id).html(data);
 	});
 }
