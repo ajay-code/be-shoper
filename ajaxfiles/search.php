@@ -3,7 +3,6 @@
 	$name= $_GET["name"];
 	if($name != ""){
 		$query="SELECT id,productname FROM  products WHERE productname LIKE '%$name%'";
-		$res=mysql_query($query);
 		$connect = new Connection();
 		$res=$connect->runQuery($query);
 		$output="";
